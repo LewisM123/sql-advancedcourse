@@ -1,6 +1,7 @@
 /*
 Example lesson stub
 */
+--a
 SELECT   ps.PatientId,
          ps.AdmittedDate,
          ps.DischargeDate,
